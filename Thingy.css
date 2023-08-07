@@ -1,0 +1,27 @@
+/**
+  *	@name SpaceX Starship
+  *	@author Minty#7396
+  *	@version 1.0
+  *	@description Highly customized and customizable theme for Discord
+  * @source https://github.com/BrightMinty/SpaceTheme/tree/main
+*/
+
+/*                                                                                                                                                                                                                         
+*/
+
+@import url('https://github.com/BrightMinty/SpaceTheme/edit/main/TheThing.css');
+
+:root {
+    --ocean-bg: url(https://cdn.discordapp.com/attachments/1090894706948440074/1138130017998610494/Photo.png);
+    --ocean-home-icon: url(https://cdn.discordapp.com/attachments/1090894706948440074/1138130017998610494/Photo.png);
+    --ocean-color1: #00d5ce;
+    --ocean-color2: #0a173a;
+    --ocean-color3: #1487b1;
+    --watermark-filter-invert: 0%;
+    --watermark-filter-sepia: 50%;
+    --watermark-filter-saturate: 3000%;
+    --watermark-filter-hue-rotate: 150deg;
+    --watermark-filter-brightness: 100%;
+    --watermark-filter-contrast: 200%;
+    --ocean-emoji-picker-color: 150deg;
+}
